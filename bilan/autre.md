@@ -8,24 +8,28 @@
 
 Évaluation de l'impact politique de la réforme de la carte législative de 2010. [regardscitoyens.org/redecoupage/](http://www.regardscitoyens.org/redecoupage/)
 
-##NosDonnées.fr##
-
-Un catalogue Open Data ouvert à tous permettant le référencement des données publiques librement réutilisables. [NosDonnees.fr/](http://nosdonnees.fr/)
 
 ##Gazouillons depuis l'hémicycle##
 
 Suivi en direct depuis les tribunes via twitter de l'intégralité des débats parlementaires relatifs à plusieurs textes. [regardscitoyens.org/gazouillis-de-lhemicycle/](http://www.regardscitoyens.org/gazouillis-de-lhemicycle/)
 
-##Simplifions la loi 2.0##
+##Libérons les bureaux de vote##
 
-Mise en débat de projets de loi agrémentés de liens automatisés vers les lois modifiées sur LégiFrance. [regardscitoyens.org/simplifions-la-loi/](http://www.regardscitoyens.org/simplifions-la-loi/)
+Géolocalisation collaborative des adresses des bureaux de vote français à partir de documents préfectoraux. [regardscitoyens.org/geolocalisons-les-bureaux-de-vote/](http://www.regardscitoyens.org/geolocalisons-les-bureaux-de-vote/)
+
+##Live Open Data des Élections 2012##
+
+Numérisation en Open Data des données fournies par le ministère de l'intérieur en papier et visualisations. [regardscitoyens.org/category/live-open-data/](http://www.regardscitoyens.org/category/live-open-data/)
+
+##NosDonnées.fr##
+
+Un catalogue Open Data ouvert à tous permettant le référencement des données publiques librement réutilisables. [NosDonnees.fr/](http://nosdonnees.fr/)
 
 ##Réserve parlementaire##
 
 Publication en Open Data des données publiées sous des formats inexploitables par l'administration. [regardscitoyens.org/category/reserve-parlementaire/](http://www.regardscitoyens.org/category/reserve-parlementaire/)
 
-##Libérons les bureaux de vote##
+##Simplifions la loi 2.0##
 
-Géolocalisation collaborative des adresses des bureaux de vote français à partir de documents préfectoraux. [regardscitoyens.org/geolocalisons-les-bureaux-de-vote/](http://www.regardscitoyens.org/geolocalisons-les-bureaux-de-vote/)
-
+Mise en débat de projets de loi agrémentés de liens automatisés vers les lois modifiées sur LégiFrance. [regardscitoyens.org/simplifions-la-loi/](http://www.regardscitoyens.org/simplifions-la-loi/)
 
