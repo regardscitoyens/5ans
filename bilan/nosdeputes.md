@@ -17,5 +17,5 @@ L'Assemblée nationale ne fournissant pas ces données à la réutilisation, le 
 - 3,9 millions de visiteurs uniques depuis 2009
 - 23 millions de pages vues depuis 2009
 - 20 000 alertes e-mail de "veille parlementaire" envoyées par mois
-- 1,8 millions de documents parlementaires mis à disposition
+- 1,8 millions d'éléments parlementaires mis à disposition
 
