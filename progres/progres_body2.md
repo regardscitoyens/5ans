@@ -11,7 +11,7 @@ Le lobbying a longtemps été un sujet tabou du Parlement. Grâce au travail d'a
 **Liste des personnes auditionnées obligatoires dans les rapports de l'Assemblée (avec appartenance au registre indiquée)**
 
 
-Dans une étude menée avec Transparency International sur les personnes auditionnées à l'Assemblée, Regards Citoyens a montré que seuls 60% des rapports mentionnaient les personnes auditionnées. Le bureau de l'Assemblée nationale a depuis rendu obligatoire la publication de ces informations en annexe des rapports.
+Dans une étude menée avec Transparency International sur les personnes auditionnées à l'Assemblée, Regards Citoyens a montré que seuls 60% des rapports mentionnaient les personnes auditionnées. Le bureau de l'Assemblée nationale a depuis rendu obligatoire la publication de ces informations en annexe des rapports, avec mention pour chaque auditionné de l'inscription ou non au registre.
 
 **Un registre à l'Assemblée amélioré incluant des données financières**
 
