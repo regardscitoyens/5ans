@@ -31,7 +31,7 @@ A4/20110317_etude-lobbying.pdf:
 	pdfjam --fitpaper true --rotateoversize false --suffix joined --paper a4paper --fitpaper false --rotateoversize false --outfile A4/20110317_etude-lobbying.pdf -- A3/20110317_etude-lobbying.pdf - 2> /dev/null
 
 A4/20110801_confiseurs.pdf:
-	pdfjam --fitpaper true --rotateoversize false --suffix joined --paper a4paper --fitpaper false --rotateoversize false --outfile A4/20110801_confiseurs.pdf -- A3/20110801_confiseurs.pdf - 2> /dev/null
+	pdfjam --fitpaper true --rotateoversize false --suffix joined --paper a4paper --fitpaper false --rotateoversize false --outfile A4/.20110801_confiseurs.tmp.pdf -- A3/20110801_confiseurs.pdf - 2> /dev/null ; gs -dNOPAUSE=true -dBATCH=true -sDEVICE=pdfwrite -dCompatibilityLevel=1.4  -sOutputFile=A4/20110801_confiseurs.pdf A4/.20110801_confiseurs.tmp.pdf 2> /dev/null 1>&2;
 
 A4/20111001_nossenateurs.pdf:
 	pdfjam --fitpaper true --rotateoversize false --suffix joined --paper a4paper --fitpaper false --rotateoversize false --outfile A4/20111001_nossenateurs.pdf -- A3/20111001_nossenateurs.pdf - 2> /dev/null
@@ -43,7 +43,7 @@ A4/20130710_reserve.pdf:
 	pdfjam --fitpaper true --rotateoversize false --suffix joined --paper a4paper --fitpaper false --rotateoversize false --outfile A4/20130710_reserve.pdf -- A3/20130710_reserve.pdf - 2> /dev/null
 
 A4/20140301_nosfinanceslocales.pdf:
-	pdfjam --fitpaper true --rotateoversize false --suffix joined --paper a4paper --fitpaper false --rotateoversize false --outfile A4/20140301_nosfinanceslocales.pdf -- A3/20140301_nosfinanceslocales.pdf - 2> /dev/null
+	pdfjam --fitpaper true --rotateoversize false --suffix joined --paper a4paper --fitpaper false --rotateoversize false --outfile A4/20140301_nosfinanceslocales.pdf -- A3/20140301_nosfinanceslocales.pdf - 2> /dev/null 
 
 A4/20140510_lafabriquedelaloi2.pdf:
 	pdfjam --fitpaper true --rotateoversize false --suffix joined --paper a4paper --fitpaper false --rotateoversize false --outfile A4/20140510_lafabriquedelaloi2.pdf -- A3/20140510_lafabriquedelaloi2.pdf - 2> /dev/null
@@ -102,4 +102,7 @@ priorites/priorites_entete.pdf: priorites/priorites_entete.md  commun/logo_5ans.
 priorites/priorites_body.pdf: priorites/priorites_body.md
 	pandoc -H commun/a4.tex priorites/priorites_body.md -o priorites/priorites_body.pdf 
 clean:
-	rm -f bilan/*pdf priorites/*pdf progres/*pdf *pdf A4/*pdf
+	rm -f bilan/*pdf priorites/*pdf progres/*pdf *pdf A4/*pdf A4/.*pdf
+
+publish:
+	rsync -ac *_5ans.pdf goya2.regardscitoyens.org:/home/nosdeputes/www.regardscitoyens.org/tmp/5ans/
