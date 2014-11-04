@@ -8,18 +8,17 @@ Le lobbying alimente beaucoup de fantasmes du fait de l'opacité qui l'entoure l
 
 Le lobbying a longtemps été un sujet tabou du Parlement. Grâce au travail d'associations comme Transparency International et Anticor, la régulation de cette activité importante de la vie parlementaire a été engagée avec la création d'un registre du lobbying à l'Assemblée nationale, et d'un code de déontologie qui a permis de sanctionner certaines pratiques comme celles des lobbyistes badgeant comme collaborateurs parlementaires. Le Sénat a suivi les pratiques de l'Assemblée quelques mois plus tard. 
 
-**Liste des personnes auditionnées obligatoires dans les rapports de l'Assemblée (avec appartenance au registre indiquée)**
+**Liste des personnes auditionnées obligatoires dans les rapports de l'Assemblée**
 
-
-Dans une étude menée avec Transparency International sur les personnes auditionnées à l'Assemblée, Regards Citoyens a montré que seuls 60% des rapports mentionnaient les personnes auditionnées. Le bureau de l'Assemblée nationale a depuis rendu obligatoire la publication de ces informations en annexe des rapports.
+Dans une étude menée avec Transparency International sur les personnes auditionnées à l'Assemblée, Regards Citoyens a montré que seuls 60% des rapports mentionnaient les personnes auditionnées. Le bureau de l'Assemblée nationale a depuis rendu obligatoire la publication de ces informations en annexe des rapports. L'incription au registre est de plus mentionné.
 
 **Un registre à l'Assemblée amélioré incluant des données financières**
 
-L'étude menée avec TI révèle également une dissymétrie totale entre les milliers d'auditions menées à l'Assemblée et les quelques centaines d'inscrits au registre facultatif. Depuis le début de la 14ème législature, le vice-président Sirugue a entrepris une rénovation du registre de l'Assemblée. Alors que l'Union européenne permet d'accéder à des informations précises sur les dépenses et investissements réalisés par les lobbyistes enregistrés à leur registre, les registres adoptés par les assemblées françaises n'informaient que sur l'identité des acteurs enregistrés. Suite à la mission Sirugue, une empreinte législative plus précise de l'activité des lobbyistes a été rendue publique : le registre de l'Assemblée nationale informe désormais sur les dépenses et les sujets suivis par les lobbyistes. Le registre reste cependant encore  facultatif et  ne compte pas encore à ce jour autant d'inscrits que son  prédécesseur.
+L'étude menée avec TI révèle également une dissymétrie totale entre les milliers d'auditions menées à l'Assemblée et les quelques centaines d'inscrits au registre facultatif. Depuis le début de la 14ème législature, le vice-président Sirugue a entrepris une rénovation du registre. Alors que l'Union européenne permet d'accéder à des informations précises sur les dépenses et investissements réalisés par les lobbyistes enregistrés, les registres adoptés par les assemblées françaises n'informaient que sur l'identité des acteurs. Suite à la mission Sirugue, une empreinte législative plus précise de l'activité des lobbyistes a été rendue publique : le registre de l'Assemblée informe désormais sur les dépenses et les sujets suivis. Le registre reste cependant encore  facultatif et  ne compte pas plus  d'inscrits que son prédécesseur.
 
 **La Haute Autorité de Transparence chargée des questions de lobbying**
 
-Lors des débats parlementaires, les députés ont chargé la Haute Autorité de Transparence des questions de lobbying. Si la HAT n'est pas chargée comme nous l'aurions souhaité d'un registre unique et obligatoire des représentants d'intérêts, elle doit définir des « recommandations portant sur les relations avec les représentants d'intérêts ».
+Lors des débats parlementaires, les députés ont chargé la Haute Autorité de Transparence des questions de lobbying. Si la HAT n'est pas mandatée, comme nous l'aurions souhaité, pour la tenue d'un registre unique et obligatoire des représentants d'intérêts, elle doit définir des « recommandations portant sur les relations avec les représentants d'intérêts ».
 
 **Améliorations attendues**
 
