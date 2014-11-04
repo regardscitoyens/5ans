@@ -4,7 +4,7 @@
 
 \pagenumbering{gobble}
 
-![5 ans](logo_5ans.png)\
+![5 ans](commun/logo_5ans.png)\
 
 Regards Citoyens est une organisation collégiale et transpartisane créée en 2009 et entièrement animée par des bénévoles. Elle vise à utiliser un maximum de données publiques pour alimenter le débat politique tout en appliquant les principes de la gouvernance ouverte. Elle promeut l’Open Data et l’Open Gov en France et réalise des projets web ne produisant que des logiciels libres et des données publiques pour faire découvrir et valoriser les institutions démocratiques françaises auprès du plus grand nombre.
 

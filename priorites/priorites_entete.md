@@ -4,6 +4,6 @@
 
 \pagenumbering{gobble}
 
-![5 ans](logo_5ans.png)\
+![5 ans](commun/logo_5ans.png)\
 
 
