@@ -1,3 +1,5 @@
+\pagenumbering{gobble}
+
 **Renforcer la transparence démocratique pour renouer la confiance avec les citoyens**
 
 - Assurer la transparence des délégations de vote à l'Assemblée et le respect de l'interdiction constitutionnelle des votes de groupe au Sénat
