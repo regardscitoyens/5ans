@@ -79,7 +79,7 @@ bilan/lafabrique.pdf: bilan/lafabrique.md
 	pandoc bilan/lafabrique.md -o bilan/lafabrique.pdf ; /usr/bin/pdfjam --fitpaper 'true' --rotateoversize 'false' --suffix joined --paper a4paper --fitpaper 'false' --rotateoversize 'false' --outfile bilan/lafabrique.pdf -- bilan/lafabrique.pdf - 2> /dev/null
 
 bilan/autre.pdf: bilan/autre.md
-	pandoc bilan/autre.md -o bilan/autre.pdf ; /usr/bin/pdfjam --fitpaper 'true' --rotateoversize 'false' --suffix joined --paper a4paper --fitpaper 'false' --rotateoversize 'false' --outfile bilan/autre.pdf -- bilan/autre.pdf - 2> /dev/null
+	pandoc -H commun/reducemargin.tex bilan/autre.md -o bilan/autre.pdf ; /usr/bin/pdfjam --fitpaper 'true' --rotateoversize 'false' --suffix joined --paper a4paper --fitpaper 'false' --rotateoversize 'false' --outfile bilan/autre.pdf -- bilan/autre.pdf - 2> /dev/null
 
 bilan/regardscitoyens.pdf: bilan/regardscitoyens.md commun/logo_5ans.png
 	pandoc bilan/regardscitoyens.md -o bilan/regardscitoyens.pdf  ; /usr/bin/pdfjam --fitpaper 'true' --rotateoversize 'false' --suffix joined --paper a4paper --fitpaper 'false' --rotateoversize 'false' --outfile bilan/regardscitoyens.pdf -- bilan/regardscitoyens.pdf - 2> /dev/null
