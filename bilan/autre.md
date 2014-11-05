@@ -8,7 +8,6 @@
 
 Évaluation de l'impact politique de la réforme de la carte législative de 2010. [regardscitoyens.org/redecoupage/](http://www.regardscitoyens.org/redecoupage/)
 
-
 ##Gazouillons depuis l'hémicycle##
 
 Suivi en direct depuis les tribunes via twitter de l'intégralité des débats parlementaires relatifs à plusieurs textes. [regardscitoyens.org/gazouillis-de-lhemicycle/](http://www.regardscitoyens.org/gazouillis-de-lhemicycle/)
