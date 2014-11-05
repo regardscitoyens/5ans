@@ -1,4 +1,5 @@
 \pagenumbering{gobble}
+\hyphenation{permet-tant}
 
 Regards Citoyens fête ses 5 ans ! 5 ans consacrés à [créer des projets permettant de mieux comprendre la démocratie et s'y impliquer](http://www.regardscitoyens.org/5ans/bilan_5ans.pdf). 5 ans bien occupés à militer pour une démocratie française plus ouverte et adaptée au numérique. 5 ans passés à accompagner les [avancées en matière d'Open Data ou de transparence de la vie publique](http://www.regardscitoyens.org/5ans/progres_5ans.pdf). Mais de sérieux efforts restent encore nécessaires. Nous les avons synthétisés en 10 priorités :
 
