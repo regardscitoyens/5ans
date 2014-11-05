@@ -1,6 +1,6 @@
 \pagenumbering{gobble}
 
-Regards Citoyens fête ses 5 ans ! 5 ans occupés à créer des projets permettant de mieux comprendre et participer à notre vie démocratique. Mais également 5 ans à militer pour que la démocratie Française soit plus ouverte, plus adaptée au numérique et plus inclusive. En 5 ans, nous avons pu mesurer les avancées notables en matière d'Open Data ou de transparence de la vie publique. Mais de sérieux efforts restent à fournir. Nous les avons synthétisés à travers 10 priorités :
+Regards Citoyens fête ses 5 ans ! 5 ans consacrés à [créer des projets permettant de mieux comprendre la démocratie et s'y impliquer](http://www.regardscitoyens.org/5ans/bilan_5ans.pdf). 5 ans bien occupés à militer pour une démocratie française plus ouverte et adaptée au numérique. 5 ans passés à accompagner les [avancées en matière d'Open Data ou de transparence de la vie publique](http://www.regardscitoyens.org/5ans/progres_5ans.pdf). Mais de sérieux efforts restent encore nécessaires. Nous les avons synthétisés en 10 priorités :
 
 **Renforcer la transparence démocratique pour renouer la confiance avec les citoyens**
 
