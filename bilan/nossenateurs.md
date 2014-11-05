@@ -1,5 +1,5 @@
 % **NosSénateurs.fr**
-% **Valorisation du travail Parlementaire au Sénat**
+% **Valorisation du travail parlementaire au Sénat**
 % *[NosSenateurs.fr/](http://NosSenateurs.fr/) - Septembre 2011*
  
 \pagenumbering{gobble}
