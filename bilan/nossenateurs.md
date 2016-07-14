@@ -12,7 +12,7 @@ Des robots ont été developpés pour extraire du site officiel du Sénat toutes
  
 **En quelques chiffres**
  
-- 130 000 visiteurs uniques par an
-- 1,3 millions d'interventions
-- 85 000 amendements
-- 60 000 questions écrites
+- 150 000 visiteurs uniques par an
+- 1,7 millions d'interventions
+- 120 000 amendements
+- 70 000 questions écrites

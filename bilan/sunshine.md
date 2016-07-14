@@ -11,6 +11,8 @@ Après avoir collecté pendant près deux ans les informations contenues sur ce 
 
 Ce travail a fait l'objet d'une large converture médiatique dont la une du Canard Enchainé du 17 mars 2015.
 
+Un an après la publication de ce travail,  la mission Étalab a annoncé la publication mise à jour régulièrement sur data.gouv.fr de la base de données du site *transparence santé* ce que le Ministère de la Santé avait refusé de faire avant le projet de Regards Citoyens.
+
 *****
  
 **En quelques chiffres**

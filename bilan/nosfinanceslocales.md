@@ -12,7 +12,7 @@ En parallèle du site, Regards Citoyens met à disposition en libre réutilisati
  
 **En quelques chiffres**
 
-- 40 000 visiteurs uniques depuis le lancement
+- 45 000 visiteurs uniques depuis le lancement
 - 800 milliards de budget visualisés
 - 36 000 communes sur 13 ans
 - 60 indicateurs financiers

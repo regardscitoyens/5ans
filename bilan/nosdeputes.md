@@ -14,8 +14,8 @@ L'Assemblée nationale ne fournissant pas ces données à la réutilisation, le 
  
 **En quelques chiffres**
  
-- 3,9 millions de visiteurs uniques depuis 2009
-- 23 millions de pages vues depuis 2009
-- 20 000 alertes e-mail de "veille parlementaire" envoyées par mois
-- 1,8 millions d'éléments parlementaires mis à disposition
+- 5,2 millions de visiteurs uniques depuis 2009
+- 30 millions de pages vues depuis 2009
+- 230 000 alertes e-mail de "veille parlementaire" envoyées par mois
+- 2,6 millions d'éléments parlementaires mis à disposition
 
