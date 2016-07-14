@@ -1,6 +1,6 @@
 %**Autres projets réalisés**
 % 
-% Décembre 2009 - Septembre 2014
+% Décembre 2009 - Juin 2016
 
 \pagenumbering{gobble}
 

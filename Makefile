@@ -1,7 +1,7 @@
 all: bilan_5ans.pdf progres_5ans.pdf priorites_5ans.pdf bilan_5ans.landscape.pdf
 
-bilan_5ans.pdf: bilan/regardscitoyens.pdf bilan/nosdeputes.pdf A4/20090924_nosdeputes.pdf bilan/lafabrique.pdf A4/20140510_lafabriquedelaloi.pdf bilan/nossenateurs.pdf A4/20111001_nossenateurs.pdf bilan/nosfinanceslocales.pdf A4/20140301_nosfinanceslocales.pdf bilan/numerisonslobbyistes.pdf A4/20110317_etude-lobbying.pdf bilan/sanctions.pdf A4/20110801_confiseurs.pdf bilan/interets.pdf A4/20140801_declarations-interets.pdf bilan/autre.pdf
-	pdftk bilan/regardscitoyens.pdf bilan/nosdeputes.pdf A4/20090924_nosdeputes.pdf bilan/lafabrique.pdf A4/20140510_lafabriquedelaloi.pdf bilan/nossenateurs.pdf A4/20111001_nossenateurs.pdf bilan/nosfinanceslocales.pdf A4/20140301_nosfinanceslocales.pdf bilan/numerisonslobbyistes.pdf A4/20110317_etude-lobbying.pdf bilan/sanctions.pdf A4/20110801_confiseurs.pdf bilan/interets.pdf A4/20140801_declarations-interets.pdf bilan/autre.pdf cat output bilan_5ans.pdf
+bilan_5ans.pdf: bilan/regardscitoyens.pdf bilan/nosdeputes.pdf A4/20090924_nosdeputes.pdf bilan/lafabrique.pdf A4/20140510_lafabriquedelaloi.pdf bilan/nossenateurs.pdf A4/20111001_nossenateurs.pdf bilan/nosfinanceslocales.pdf A4/20140301_nosfinanceslocales.pdf bilan/numerisonslobbyistes.pdf A4/20110317_etude-lobbying.pdf bilan/sanctions.pdf A4/20110801_confiseurs.pdf bilan/interets.pdf A4/20140801_declarations-interets.pdf bilan/autre.pdf bilan/sunshine.pdf A4/20160714_sunshine.pdf
+	pdftk bilan/regardscitoyens.pdf bilan/nosdeputes.pdf A4/20090924_nosdeputes.pdf bilan/lafabrique.pdf A4/20140510_lafabriquedelaloi.pdf bilan/nossenateurs.pdf A4/20111001_nossenateurs.pdf bilan/nosfinanceslocales.pdf A4/20140301_nosfinanceslocales.pdf bilan/numerisonslobbyistes.pdf A4/20110317_etude-lobbying.pdf bilan/sanctions.pdf A4/20110801_confiseurs.pdf bilan/interets.pdf A4/20140801_declarations-interets.pdf bilan/sunshine.pdf A4/20160714_sunshine.pdf bilan/autre.pdf cat output bilan_5ans.pdf
 
 progres_5ans.pdf: progres/progres_entete.pdf progres/progres_body1.pdf progres/progres_body2.pdf progres/progres_body3.pdf progres/progres_body4.pdf
 	pdftk progres/progres_entete.pdf progres/progres_body1.pdf progres/progres_body2.pdf progres/progres_body3.pdf progres/progres_body4.pdf cat output progres_5ans.pdf
@@ -9,8 +9,8 @@ progres_5ans.pdf: progres/progres_entete.pdf progres/progres_body1.pdf progres/p
 priorites_5ans.pdf: priorites/priorites_entete.pdf priorites/priorites_body.pdf
 	pdftk priorites/priorites_entete.pdf priorites/priorites_body.pdf cat output priorites_5ans.pdf
 
-bilan_5ans.landscape.pdf: bilan/interets.landscape.pdf bilan/lafabrique.landscape.pdf bilan/nosdeputes.landscape.pdf bilan/nosfinanceslocales.landscape.pdf bilan/nossenateurs.landscape.pdf bilan/numerisonslobbyistes.landscape.pdf bilan/sanctions.landscape.pdf
-	pdftk bilan/interets.landscape.pdf bilan/lafabrique.landscape.pdf bilan/nosfinanceslocales.landscape.pdf bilan/nossenateurs.landscape.pdf bilan/numerisonslobbyistes.landscape.pdf bilan/sanctions.landscape.pdf bilan/nosdeputes.landscape.pdf cat output bilan_5ans.landscape.pdf
+bilan_5ans.landscape.pdf: bilan/interets.landscape.pdf bilan/lafabrique.landscape.pdf bilan/nosdeputes.landscape.pdf bilan/nosfinanceslocales.landscape.pdf bilan/nossenateurs.landscape.pdf bilan/numerisonslobbyistes.landscape.pdf bilan/sanctions.landscape.pdf bilan/sunshine.landscape.pdf
+	pdftk bilan/interets.landscape.pdf bilan/lafabrique.landscape.pdf bilan/nosfinanceslocales.landscape.pdf bilan/nossenateurs.landscape.pdf bilan/numerisonslobbyistes.landscape.pdf bilan/sanctions.landscape.pdf bilan/nosdeputes.landscape.pdf bilan/sunshine.landscape.pdf cat output bilan_5ans.landscape.pdf
 
 A4/20090924_nosdeputes.pdf:
 	pdfjam --fitpaper true --rotateoversize false --suffix joined --paper a4paper --fitpaper false --rotateoversize false --outfile A4/20090924_nosdeputes.pdf -- A3/20090924_nosdeputes.pdf - 2> /dev/null
@@ -72,6 +72,9 @@ bilan/numerisonslobbyistes.pdf: bilan/numerisonslobbyistes.md
 bilan/sanctions.pdf: bilan/sanctions.md
 	pandoc bilan/sanctions.md -o bilan/sanctions.pdf ; /usr/bin/pdfjam --fitpaper 'true' --rotateoversize 'false' --suffix joined --paper a4paper --fitpaper 'false' --rotateoversize 'false' --outfile bilan/sanctions.pdf -- bilan/sanctions.pdf - 2> /dev/null
 
+bilan/sunshine.pdf: bilan/sunshine.md
+	pandoc bilan/sunshine.md -o bilan/sunshine.pdf ; /usr/bin/pdfjam --fitpaper 'true' --rotateoversize 'false' --suffix joined --paper a4paper --fitpaper 'false' --rotateoversize 'false' --outfile bilan/sunshine.pdf -- bilan/sunshine.pdf - 2> /dev/null
+
 bilan/interets.pdf: bilan/interets.md
 	pandoc bilan/interets.md -o bilan/interets.pdf ; /usr/bin/pdfjam --fitpaper 'true' --rotateoversize 'false' --suffix joined --paper a4paper --fitpaper 'false' --rotateoversize 'false' --outfile bilan/interets.pdf -- bilan/interets.pdf - 2> /dev/null
 
@@ -123,9 +126,13 @@ bilan/regardscitoyens.landscape.pdf: bilan/regardscitoyens.md
 	pandoc -H commun/a4landscape.tex bilan/regardscitoyens.md -o bilan/regardscitoyens.landscape.pdf
 bilan/sanctions.landscape.pdf: bilan/sanctions.md
 	pandoc -H commun/a4landscape.tex bilan/sanctions.md -o bilan/sanctions.landscape.pdf
+bilan/sunshine.landscape.pdf: bilan/sunshine.md
+	pandoc -H commun/a4landscape.tex bilan/sunshine.md -o bilan/sunshine.landscape.pdf
+
+
 clean:
 	rm -f bilan/*pdf priorites/*pdf progres/*pdf *pdf A4/*pdf A4/.*pdf
-publish:
+publish: all
 	rsync -ac *_5ans.pdf goya2.regardscitoyens.org:/home/nosdeputes/www.regardscitoyens.org/tmp/5ans/
 
 
